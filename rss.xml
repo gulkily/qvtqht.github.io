@@ -11,10 +11,22 @@
 		<link>
 		http://localhost:2784</link>
 		<description>This is a flexible message board which you can read and write.</description>
-		<pubDate>Tue Mar 23 15:47:40 2021</pubDate>
+		<pubDate>Tue Mar 23 17:13:08 2021</pubDate>
 		<items>
 			<rdf:Seq>
-				<rdf:li rdf:resource="http://localhost:2784/57/a6/57a643f7.html" />
+				<rdf:li rdf:resource="http://localhost:2784/65/bd/65bda107.html" />
+<rdf:li rdf:resource="http://localhost:2784/8b/ab/8bab2d48.html" />
+<rdf:li rdf:resource="http://localhost:2784/41/65/41659c90.html" />
+<rdf:li rdf:resource="http://localhost:2784/57/c4/57c4fa1d.html" />
+<rdf:li rdf:resource="http://localhost:2784/f6/43/f64305fb.html" />
+<rdf:li rdf:resource="http://localhost:2784/2e/09/2e092744.html" />
+<rdf:li rdf:resource="http://localhost:2784/1e/bd/1ebded98.html" />
+<rdf:li rdf:resource="http://localhost:2784/64/b7/64b71a37.html" />
+<rdf:li rdf:resource="http://localhost:2784/c6/bc/c6bc06ba.html" />
+<rdf:li rdf:resource="http://localhost:2784/6d/8b/6d8be3c7.html" />
+<rdf:li rdf:resource="http://localhost:2784/6e/73/6e735d2e.html" />
+<rdf:li rdf:resource="http://localhost:2784/2a/f2/2af2a556.html" />
+<rdf:li rdf:resource="http://localhost:2784/57/a6/57a643f7.html" />
 <rdf:li rdf:resource="http://localhost:2784/1e/5f/1e5fd57f.html" />
 <rdf:li rdf:resource="http://localhost:2784/07/0f/070fa7a9.html" />
 <rdf:li rdf:resource="http://localhost:2784/24/30/243095fd.html" />
@@ -151,7 +163,180 @@
 
 	</channel>
 
-	<item rdf:about="http://localhost:2784/57/a6/57a643f7.html">
+	<item rdf:about="http://localhost:2784/65/bd/65bda107.html">
+		<guid>http://localhost:2784/65/bd/65bda107.html</guid>
+		<pubDate>1616533670</pubDate>
+		<title>Michael Flaxman is a software engineer and investor. He fell in</title>
+		<link>http://localhost:2784/65/bd/65bda107.html</link>
+		<description>
+				<![CDATA[
+				Michael Flaxman is a software engineer and investor. He fell in love with Bitcoin in 2013 and is the co-maintainer of buidl (an open-source bitcoin library written in python) and the author of the 10x security guide. Michael has built three venture-funded companies and is an alumnus of Y Combinator.<br />
+<br />
+-- <br />
+name: Michael Flaxman<br />
+title: Co-maintainer of buidl python bitcoin library<br />
+<br />
+&gt;&gt;2af2a5567e7a147ec87c2935461df351d7b4a264<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/8b/ab/8bab2d48.html">
+		<guid>http://localhost:2784/8b/ab/8bab2d48.html</guid>
+		<pubDate>1616533387</pubDate>
+		<title>Anders Brownworth works in applied research on CBDCs within the</title>
+		<link>http://localhost:2784/8b/ab/8bab2d48.html</link>
+		<description>
+				<![CDATA[
+				Anders Brownworth works in applied research on CBDCs within the Payments Strategy group at The Federal Reserve Bank of Boston. Previously he worked at Circle involved with designing and launching the USDC stablecoin. He co-taught the first blockchain class at MIT and previously helped create and launch Republic Wireless, a WiFi / cellular hybrid smartphone service. Brownworth holds a number of patents in the telecom space and played a key role in Bandwidth.com's evolution from startup to public company.<br />
+<br />
+-- <br />
+name: Anders Brownworth<br />
+title: Principal Architect, Federal Reserve Bank of Boston<br />
+<br />
+&gt;&gt;6d8be3c701e696c51772eb20a84527e78d661d95<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/41/65/41659c90.html">
+		<guid>http://localhost:2784/41/65/41659c90.html</guid>
+		<pubDate>1616533176</pubDate>
+		<title>Valerie A. Szczepanik is the Director of the Strategic Hub for </title>
+		<link>http://localhost:2784/41/65/41659c90.html</link>
+		<description>
+				<![CDATA[
+				Valerie A. Szczepanik is the Director of the Strategic Hub for Innovation and Financial<br />
+Technology (FinHub) Office at the U.S. Securities and Exchange Commission (SEC). Before<br />
+that, she was the Senior Advisor for Digital Assets and Innovation and an Associate Director in the SEC’s Division of Corporation Finance. She also served as Assistant Director in the SEC Division of Enforcement’s Cyber Unit. Ms. Szczepanik served as a Special Assistant United States Attorney at the United States Attorney’s Office for the Eastern District of New York. She clerked for federal judges on the United States District Court for the District of Columbia and the United States Court of Appeals for the Federal Circuit and, prior to clerking, practiced patent law. Ms. Szczepanik received her Juris Doctor degree from Georgetown University and her Bachelor of Science degree in Engineering from the University of Pennsylvania.<br />
+-- <br />
+name: Valerie Szczepanik<br />
+title: Director, US SEC FinHub<br />
+<br />
+&gt;&gt;64b71a37cbb2cbe17050b20c0d228478cd09f49e<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/57/c4/57c4fa1d.html">
+		<guid>http://localhost:2784/57/c4/57c4fa1d.html</guid>
+		<pubDate>1616533122</pubDate>
+		<title>Danny does research and development on consensus upgrades at th</title>
+		<link>http://localhost:2784/57/c4/57c4fa1d.html</link>
+		<description>
+				<![CDATA[
+				Danny does research and development on consensus upgrades at the Ethereum Foundation.<br />
+<br />
+-- <br />
+name: Danny Ryan<br />
+title: Research at Ethereum Foundation<br />
+<br />
+&gt;&gt;6e735d2e881e4d464be8f5a4f49f39dc744ac4e7<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/f6/43/f64305fb.html">
+		<guid>http://localhost:2784/f6/43/f64305fb.html</guid>
+		<pubDate>1616533057</pubDate>
+		<title>John is the founder and director of Brink, an open source Bitco</title>
+		<link>http://localhost:2784/f6/43/f64305fb.html</link>
+		<description>
+				<![CDATA[
+				John is the founder and director of Brink, an open source Bitcoin research and development centre. John has been contributing to Bitcoin Core for 5 years, and worked at Chaincode Labs prior to founding Brink.<br />
+<br />
+-- <br />
+name: John Newbery<br />
+title: Director, Brink<br />
+<br />
+&gt;&gt;c6bc06baf46ff4ebf3f33328dd933f3e82ca4190<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/2e/09/2e092744.html">
+		<guid>http://localhost:2784/2e/09/2e092744.html</guid>
+		<pubDate>1616530772</pubDate>
+		<title>(Untitled)</title>
+		<link>http://localhost:2784/2e/09/2e092744.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/1e/bd/1ebded98.html">
+		<guid>http://localhost:2784/1e/bd/1ebded98.html</guid>
+		<pubDate>1616530765</pubDate>
+		<title>(Untitled)</title>
+		<link>http://localhost:2784/1e/bd/1ebded98.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/64/b7/64b71a37.html">
+		<guid>http://localhost:2784/64/b7/64b71a37.html</guid>
+		<pubDate>1616530761</pubDate>
+		<title>Director, US SEC FinHub</title>
+		<link>http://localhost:2784/64/b7/64b71a37.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/c6/bc/c6bc06ba.html">
+		<guid>http://localhost:2784/c6/bc/c6bc06ba.html</guid>
+		<pubDate>1616529959</pubDate>
+		<title>Director, Brink</title>
+		<link>http://localhost:2784/c6/bc/c6bc06ba.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/6d/8b/6d8be3c7.html">
+		<guid>http://localhost:2784/6d/8b/6d8be3c7.html</guid>
+		<pubDate>1616529952</pubDate>
+		<title>Principal Architect, Federal Reserve Bank of Boston</title>
+		<link>http://localhost:2784/6d/8b/6d8be3c7.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/6e/73/6e735d2e.html">
+		<guid>http://localhost:2784/6e/73/6e735d2e.html</guid>
+		<pubDate>1616529951</pubDate>
+		<title>Research at Ethereum Foundation</title>
+		<link>http://localhost:2784/6e/73/6e735d2e.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/2a/f2/2af2a556.html">
+		<guid>http://localhost:2784/2a/f2/2af2a556.html</guid>
+		<pubDate>1616529946</pubDate>
+		<title>Co-maintainer of buidl python bitcoin library</title>
+		<link>http://localhost:2784/2a/f2/2af2a556.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/57/a6/57a643f7.html">
 		<guid>http://localhost:2784/57/a6/57a643f7.html</guid>
 		<pubDate>1616516237</pubDate>
 		<title>(Untitled)</title>
