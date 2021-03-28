@@ -358,6 +358,13 @@ function HandleNotFound ($path, $pathRel) { // handles 404 error by regrowing th
 		}
 
 		if (
+			$path == '/sponsors.html'
+		) {
+			WriteLog('HandleNotFound: found authors page');
+			$pagesPlArgument = '-M sponsors';
+		}
+
+		if (
 			$path == '/read.html'
 		) {
 			WriteLog('HandleNotFound: found read page');
