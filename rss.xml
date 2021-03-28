@@ -11,10 +11,41 @@
 		<link>
 		http://localhost:2784</link>
 		<description>This is a flexible message board which you can read and write.</description>
-		<pubDate>Wed Mar 24 04:18:13 2021</pubDate>
+		<pubDate>Sun Mar 28 09:37:51 2021</pubDate>
 		<items>
 			<rdf:Seq>
-				<rdf:li rdf:resource="http://localhost:2784/f3/ec/f3ec4b99.html" />
+				<rdf:li rdf:resource="http://localhost:2784/b4/e8/b4e8c710.html" />
+<rdf:li rdf:resource="http://localhost:2784/00/72/00722e06.html" />
+<rdf:li rdf:resource="http://localhost:2784/80/ce/80ce6e59.html" />
+<rdf:li rdf:resource="http://localhost:2784/ef/5f/ef5f020f.html" />
+<rdf:li rdf:resource="http://localhost:2784/26/bb/26bb7027.html" />
+<rdf:li rdf:resource="http://localhost:2784/ab/b9/abb9fdf2.html" />
+<rdf:li rdf:resource="http://localhost:2784/e5/ce/e5ceca10.html" />
+<rdf:li rdf:resource="http://localhost:2784/ab/e8/abe830a9.html" />
+<rdf:li rdf:resource="http://localhost:2784/89/7b/897b1cbb.html" />
+<rdf:li rdf:resource="http://localhost:2784/0a/db/0adb74e8.html" />
+<rdf:li rdf:resource="http://localhost:2784/2e/4a/2e4a9578.html" />
+<rdf:li rdf:resource="http://localhost:2784/e8/94/e8948ef7.html" />
+<rdf:li rdf:resource="http://localhost:2784/40/03/4003e8bd.html" />
+<rdf:li rdf:resource="http://localhost:2784/5d/6f/5d6fc575.html" />
+<rdf:li rdf:resource="http://localhost:2784/8c/7c/8c7c9128.html" />
+<rdf:li rdf:resource="http://localhost:2784/9f/34/9f342814.html" />
+<rdf:li rdf:resource="http://localhost:2784/54/c8/54c8586a.html" />
+<rdf:li rdf:resource="http://localhost:2784/d2/ca/d2ca3e3e.html" />
+<rdf:li rdf:resource="http://localhost:2784/bf/ae/bfae7f28.html" />
+<rdf:li rdf:resource="http://localhost:2784/c2/03/c203d0f2.html" />
+<rdf:li rdf:resource="http://localhost:2784/fc/ee/fceef24e.html" />
+<rdf:li rdf:resource="http://localhost:2784/38/92/38922166.html" />
+<rdf:li rdf:resource="http://localhost:2784/c6/dc/c6dc8742.html" />
+<rdf:li rdf:resource="http://localhost:2784/f7/3b/f73b9410.html" />
+<rdf:li rdf:resource="http://localhost:2784/9b/40/9b4030e0.html" />
+<rdf:li rdf:resource="http://localhost:2784/db/1c/db1cf278.html" />
+<rdf:li rdf:resource="http://localhost:2784/c9/ac/c9ac26c6.html" />
+<rdf:li rdf:resource="http://localhost:2784/8a/4f/8a4ffd8a.html" />
+<rdf:li rdf:resource="http://localhost:2784/5c/29/5c29cc7e.html" />
+<rdf:li rdf:resource="http://localhost:2784/38/7e/387ee13e.html" />
+<rdf:li rdf:resource="http://localhost:2784/9b/eb/9bebf217.html" />
+<rdf:li rdf:resource="http://localhost:2784/f3/ec/f3ec4b99.html" />
 <rdf:li rdf:resource="http://localhost:2784/2a/da/2ada9978.html" />
 <rdf:li rdf:resource="http://localhost:2784/e4/4a/e44a5d45.html" />
 <rdf:li rdf:resource="http://localhost:2784/27/fd/27fd08e6.html" />
@@ -28,12 +59,6 @@
 <rdf:li rdf:resource="http://localhost:2784/c6/e3/c6e370e9.html" />
 <rdf:li rdf:resource="http://localhost:2784/c9/7c/c97ca519.html" />
 <rdf:li rdf:resource="http://localhost:2784/37/43/3743d317.html" />
-<rdf:li rdf:resource="http://localhost:2784/04/39/0439ba05.html" />
-<rdf:li rdf:resource="http://localhost:2784/18/e1/18e1f7e5.html" />
-<rdf:li rdf:resource="http://localhost:2784/cc/a3/cca31b0d.html" />
-<rdf:li rdf:resource="http://localhost:2784/f5/77/f5773d0b.html" />
-<rdf:li rdf:resource="http://localhost:2784/0c/7f/0c7f5a8f.html" />
-<rdf:li rdf:resource="http://localhost:2784/04/56/04560b1a.html" />
 <rdf:li rdf:resource="http://localhost:2784/5e/78/5e7888b7.html" />
 <rdf:li rdf:resource="http://localhost:2784/b9/2f/b92fa5df.html" />
 <rdf:li rdf:resource="http://localhost:2784/59/ab/59ab39b5.html" />
@@ -201,7 +226,478 @@
 
 	</channel>
 
-	<item rdf:about="http://localhost:2784/f3/ec/f3ec4b99.html">
+	<item rdf:about="http://localhost:2784/b4/e8/b4e8c710.html">
+		<guid>http://localhost:2784/b4/e8/b4e8c710.html</guid>
+		<pubDate>1616879797</pubDate>
+		<title>(Untitled)</title>
+		<link>http://localhost:2784/b4/e8/b4e8c710.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/00/72/00722e06.html">
+		<guid>http://localhost:2784/00/72/00722e06.html</guid>
+		<pubDate>1616879795</pubDate>
+		<title>(Untitled)</title>
+		<link>http://localhost:2784/00/72/00722e06.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/80/ce/80ce6e59.html">
+		<guid>http://localhost:2784/80/ce/80ce6e59.html</guid>
+		<pubDate>1616877254</pubDate>
+		<title>Software Updated to Version b7e4cc6c..</title>
+		<link>http://localhost:2784/80/ce/80ce6e59.html</link>
+		<description>
+				<![CDATA[
+				Software Updated to Version b7e4cc6c..<br />
+<br />
+Installed software version has changed from ccd898f18436aa7030df4e6db4b1e312568964f4 to b7e4cc6c69bc1637a9a2b9c3fae93427d14fe03c<br />
+<br />
+b7e4cc6c Only use hard-coded 'Bio' title when expo mode<br />
+c08e5945 Add start_server_local.pl (copy of lighttpd.pl)<br />
+f331b14c Replace direct access with GetThemeAttribute() into GetTemplate()<br />
+ef179d67 Move GetThemeAttribute() to utils.pl<br />
+<br />
+#changelog
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/ef/5f/ef5f020f.html">
+		<guid>http://localhost:2784/ef/5f/ef5f020f.html</guid>
+		<pubDate>1616874672</pubDate>
+		<title>-- </title>
+		<link>http://localhost:2784/ef/5f/ef5f020f.html</link>
+		<description>
+				<![CDATA[
+				-- <br />
+name: Luiz Thomaz do Nascimento<br />
+title: Content Chair<br />
+<br />
+&gt;&gt;9f3428147904d9c331e1cb4d23218ac25590bc2b<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/26/bb/26bb7027.html">
+		<guid>http://localhost:2784/26/bb/26bb7027.html</guid>
+		<pubDate>1616874632</pubDate>
+		<title>-- </title>
+		<link>http://localhost:2784/26/bb/26bb7027.html</link>
+		<description>
+				<![CDATA[
+				-- <br />
+name: Nick Ulven<br />
+title: Hackathon<br />
+<br />
+&gt;&gt;8c7c9128e2911c892f2414ce8b2e8fa599f46891<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/ab/b9/abb9fdf2.html">
+		<guid>http://localhost:2784/ab/b9/abb9fdf2.html</guid>
+		<pubDate>1616874617</pubDate>
+		<title>-- </title>
+		<link>http://localhost:2784/ab/b9/abb9fdf2.html</link>
+		<description>
+				<![CDATA[
+				-- <br />
+name: Sacha Ghebali<br />
+title: Advisor<br />
+<br />
+&gt;&gt;0adb74e886548160ce80d2c03bd23aeec183a62e<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/e5/ce/e5ceca10.html">
+		<guid>http://localhost:2784/e5/ce/e5ceca10.html</guid>
+		<pubDate>1616874588</pubDate>
+		<title>-- </title>
+		<link>http://localhost:2784/e5/ce/e5ceca10.html</link>
+		<description>
+				<![CDATA[
+				-- <br />
+name: Sathya Peri<br />
+title: Logistics<br />
+<br />
+&gt;&gt;5d6fc575972925f7abb5510ccfedb3db566cb106<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/ab/e8/abe830a9.html">
+		<guid>http://localhost:2784/ab/e8/abe830a9.html</guid>
+		<pubDate>1616874566</pubDate>
+		<title>-- </title>
+		<link>http://localhost:2784/ab/e8/abe830a9.html</link>
+		<description>
+				<![CDATA[
+				-- <br />
+name: Lampros Tsontzos<br />
+title: Sponsorship Co-Chair<br />
+<br />
+<br />
+&gt;&gt;54c8586a9a67b87d09f8c9d54a23acae30f39c60<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/89/7b/897b1cbb.html">
+		<guid>http://localhost:2784/89/7b/897b1cbb.html</guid>
+		<pubDate>1616874540</pubDate>
+		<title>-- </title>
+		<link>http://localhost:2784/89/7b/897b1cbb.html</link>
+		<description>
+				<![CDATA[
+				-- <br />
+name: Joseph Wyatt<br />
+title: Sponsorship Co-Chair<br />
+<br />
+&gt;&gt;2e4a9578c101fe92f0ab1f01edf8b93ca0acac99<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/0a/db/0adb74e8.html">
+		<guid>http://localhost:2784/0a/db/0adb74e8.html</guid>
+		<pubDate>1616874448</pubDate>
+		<title>Advisor</title>
+		<link>http://localhost:2784/0a/db/0adb74e8.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/2e/4a/2e4a9578.html">
+		<guid>http://localhost:2784/2e/4a/2e4a9578.html</guid>
+		<pubDate>1616874445</pubDate>
+		<title>Sponsorship Co-Chair</title>
+		<link>http://localhost:2784/2e/4a/2e4a9578.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/e8/94/e8948ef7.html">
+		<guid>http://localhost:2784/e8/94/e8948ef7.html</guid>
+		<pubDate>1616873609</pubDate>
+		<title>(Untitled)</title>
+		<link>http://localhost:2784/e8/94/e8948ef7.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/40/03/4003e8bd.html">
+		<guid>http://localhost:2784/40/03/4003e8bd.html</guid>
+		<pubDate>1616873607</pubDate>
+		<title>(Untitled)</title>
+		<link>http://localhost:2784/40/03/4003e8bd.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/5d/6f/5d6fc575.html">
+		<guid>http://localhost:2784/5d/6f/5d6fc575.html</guid>
+		<pubDate>1616872093</pubDate>
+		<title>Logistics</title>
+		<link>http://localhost:2784/5d/6f/5d6fc575.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/8c/7c/8c7c9128.html">
+		<guid>http://localhost:2784/8c/7c/8c7c9128.html</guid>
+		<pubDate>1616872089</pubDate>
+		<title>Hackathon</title>
+		<link>http://localhost:2784/8c/7c/8c7c9128.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/9f/34/9f342814.html">
+		<guid>http://localhost:2784/9f/34/9f342814.html</guid>
+		<pubDate>1616872086</pubDate>
+		<title>Content Chair</title>
+		<link>http://localhost:2784/9f/34/9f342814.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/54/c8/54c8586a.html">
+		<guid>http://localhost:2784/54/c8/54c8586a.html</guid>
+		<pubDate>1616872077</pubDate>
+		<title>Sponsorship Co-Chair</title>
+		<link>http://localhost:2784/54/c8/54c8586a.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/d2/ca/d2ca3e3e.html">
+		<guid>http://localhost:2784/d2/ca/d2ca3e3e.html</guid>
+		<pubDate>1616869765</pubDate>
+		<title>RAC’s melody-driven indie-electronica washes over you like fa</title>
+		<link>http://localhost:2784/d2/ca/d2ca3e3e.html</link>
+		<description>
+				<![CDATA[
+				RAC’s melody-driven indie-electronica washes over you like faint memories. The songs are soft, light, warm, and comforting, as though revisiting old photo albums and recalling years gone by without any of the day-to-day struggles. It's at peace with the past, while lodged in the present.<br />
+<br />
+Anjos had an unusual upbringing. He was raised overseas to parents who both worked as missionaries. His mother is American, and he always felt torn between worlds in terms of nationality, first language, even the concept of home itself. “I didn't feel a part of any specific world, it was a bit alienating,” he recalls.<br />
+<br />
+'BOY' pulls from these nascent years; ones in which words weren't doing the talking, but more esoteric languages – little melodic phrases that would be stuck in his head, or plain pangs of the heart. Back in his youth, Anjos had to do it all from scratch with no knowledge of how to create. He was his own teacher and guide. <br />
+<br />
+In the years since, he's released three LPs, worked on Linkin Park's final album, TV and film soundtracks, scored a ballet and remixed everyone from Lana del Rey to Odesza to Bob Marley. His songs have been streamed over half a billion times, he's won a Grammy and his live performances have taken him to festivals the world over. He feels at ease with his success, and in a place of liberation to do and make as he pleases. The process of 'BOY' has changed him in a way that is now guiding his next moves.<br />
+<br />
+-- <br />
+name: Allen Anjos<br />
+title: RAC<br />
+<br />
+&gt;&gt;38922166759865dc132637c0c5063500a62b54e7<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/bf/ae/bfae7f28.html">
+		<guid>http://localhost:2784/bf/ae/bfae7f28.html</guid>
+		<pubDate>1616869243</pubDate>
+		<title>Miles Anthony is the project lead of Decentral Games, the first</title>
+		<link>http://localhost:2784/bf/ae/bfae7f28.html</link>
+		<description>
+				<![CDATA[
+				Miles Anthony is the project lead of Decentral Games, the first DAO-governed metaverse gaming and NFT ecosystem. $DG token holders vote on treasury allocation, economic policy, new game development to grow and strengthen the Decentral Games ecosystem. Miles Anthony is the first to launch this gaming ecosystem concept with a play-to-earn model. His work is supported by his belief that true digital ownership lies in blockchain technology. Prior to his interest in crypto and starting Decentral Games, Miles founded an e-commerce company while still studying in UCLA.<br />
+<br />
+-- <br />
+name: Miles Anthony<br />
+title: Founder, Decentral Games<br />
+<br />
+&gt;&gt;9b4030e004d4fe88c40e38a561c4ba70a19df5e5<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/c2/03/c203d0f2.html">
+		<guid>http://localhost:2784/c2/03/c203d0f2.html</guid>
+		<pubDate>1616869186</pubDate>
+		<title>William is an investor and Director at Pantera Capital, managin</title>
+		<link>http://localhost:2784/c2/03/c203d0f2.html</link>
+		<description>
+				<![CDATA[
+				William is an investor and Director at Pantera Capital, managing quantitative and systematic strategies of the firm's multiple hedge fund portfolios. As an accomplished investor in the blockchain asset class as well as a distinguished technologist, William was previously founder of Zero-One Capital and holds active US patents in the field of network algorithms. William graduated double B.S./M.S. in Electrical Engineering from the California Institute of Technology in addition to a B.S. in Business, Economics, and Management from the Linde Institute of Caltech.<br />
+<br />
+-- <br />
+name: William Fan<br />
+title: Director, Pantera Capital<br />
+<br />
+&gt;&gt;f73b94103d5719b52496a00e341ed5cf0b7f9244<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/fc/ee/fceef24e.html">
+		<guid>http://localhost:2784/fc/ee/fceef24e.html</guid>
+		<pubDate>1616869123</pubDate>
+		<title>Manasi Vora is the VP of Strategy and Operations at Skynet Labs</title>
+		<link>http://localhost:2784/fc/ee/fceef24e.html</link>
+		<description>
+				<![CDATA[
+				Manasi Vora is the VP of Strategy and Operations at Skynet Labs where she focuses on decentralized data storage. She is also the Founder of Women in Blockchain Boston with a mission to break down barriers to entry and increase gender diversity in the Blockchain industry. Prior to joining Skynet, Manasi conducted research at the MIT Media Lab's Digital Currency Initiative and was the Director of MIT Bitcoin Expo in 2019. <br />
+<br />
+-- <br />
+name: Manasi Vora<br />
+title: VP Strategy &amp; Ops, Skynet Labs<br />
+<br />
+&gt;&gt;c6dc8742545df1838d3ed6ae4feafcbd23b64af2<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/38/92/38922166.html">
+		<guid>http://localhost:2784/38/92/38922166.html</guid>
+		<pubDate>1616868904</pubDate>
+		<title>RAC</title>
+		<link>http://localhost:2784/38/92/38922166.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/c6/dc/c6dc8742.html">
+		<guid>http://localhost:2784/c6/dc/c6dc8742.html</guid>
+		<pubDate>1616868902</pubDate>
+		<title>VP Strategy &amp; Ops, Skynet Labs</title>
+		<link>http://localhost:2784/c6/dc/c6dc8742.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/f7/3b/f73b9410.html">
+		<guid>http://localhost:2784/f7/3b/f73b9410.html</guid>
+		<pubDate>1616868898</pubDate>
+		<title>Director, Pantera Capital</title>
+		<link>http://localhost:2784/f7/3b/f73b9410.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/9b/40/9b4030e0.html">
+		<guid>http://localhost:2784/9b/40/9b4030e0.html</guid>
+		<pubDate>1616868895</pubDate>
+		<title>Founder, Decentral Games</title>
+		<link>http://localhost:2784/9b/40/9b4030e0.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/db/1c/db1cf278.html">
+		<guid>http://localhost:2784/db/1c/db1cf278.html</guid>
+		<pubDate>1616748170</pubDate>
+		<title>Software Updated to Version 8efdfb46..</title>
+		<link>http://localhost:2784/db/1c/db1cf278.html</link>
+		<description>
+				<![CDATA[
+				Software Updated to Version 8efdfb46..<br />
+<br />
+Installed software version has changed from 5c4dbdf670f0abf9918c3a6fc51c3a66dde8433e to 8efdfb469d49afc3f588fad877dcd74e0c076244<br />
+<br />
+8efdfb46 Add backup menu<br />
+<br />
+#changelog
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/c9/ac/c9ac26c6.html">
+		<guid>http://localhost:2784/c9/ac/c9ac26c6.html</guid>
+		<pubDate>1616748165</pubDate>
+		<title>Software Updated to Version ccd898f1..</title>
+		<link>http://localhost:2784/c9/ac/c9ac26c6.html</link>
+		<description>
+				<![CDATA[
+				Software Updated to Version ccd898f1..<br />
+<br />
+Installed software version has changed from 8efdfb469d49afc3f588fad877dcd74e0c076244 to ccd898f18436aa7030df4e6db4b1e312568964f4<br />
+<br />
+ccd898f1 Add expo_site_edit default<br />
+799f41eb GetReadPage() add sanity check<br />
+c5b84e4c Add sanity check in WriteMenuList()<br />
+<br />
+#changelog
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/8a/4f/8a4ffd8a.html">
+		<guid>http://localhost:2784/8a/4f/8a4ffd8a.html</guid>
+		<pubDate>1616740547</pubDate>
+		<title>Software Updated to Version 5c4dbdf6..</title>
+		<link>http://localhost:2784/8a/4f/8a4ffd8a.html</link>
+		<description>
+				<![CDATA[
+				Software Updated to Version 5c4dbdf6..<br />
+<br />
+Installed software version has changed from d050cd820cb34c509f850c653f978974ba12b6c3 to 5c4dbdf670f0abf9918c3a6fc51c3a66dde8433e<br />
+<br />
+5c4dbdf6 GetItemTemplate2() --&gt; GetItemTemplate()<br />
+2fe109f9 GetItemTemplate2() --&gt; GetItemTemplate()<br />
+7b4d565c GetItemTemplate2() --&gt; GetItemTemplate()<br />
+ea4e528f fix bugs in pages.pl GetMenuTemplate()<br />
+<br />
+#changelog
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/5c/29/5c29cc7e.html">
+		<guid>http://localhost:2784/5c/29/5c29cc7e.html</guid>
+		<pubDate>1616731373</pubDate>
+		<title>Software Updated to Version fe4088e4..</title>
+		<link>http://localhost:2784/5c/29/5c29cc7e.html</link>
+		<description>
+				<![CDATA[
+				Software Updated to Version fe4088e4..<br />
+<br />
+Installed software version has changed from 1d36d37e2093076545564d7b4132271f2349fd0e to fe4088e44c363216dfc37d9eeef9fb971e390cbe<br />
+<br />
+fe4088e4 Add GetImageContainer() and integrate<br />
+53b137ff Add GetImageContainer()<br />
+a9f8505f cleanup in pages.pl<br />
+8e3a9d6d fix sanity check in DBGetItemAttribute()<br />
+<br />
+#changelog
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/38/7e/387ee13e.html">
+		<guid>http://localhost:2784/38/7e/387ee13e.html</guid>
+		<pubDate>1616731359</pubDate>
+		<title>Software Updated to Version d050cd82..</title>
+		<link>http://localhost:2784/38/7e/387ee13e.html</link>
+		<description>
+				<![CDATA[
+				Software Updated to Version d050cd82..<br />
+<br />
+Installed software version has changed from fe4088e44c363216dfc37d9eeef9fb971e390cbe to d050cd820cb34c509f850c653f978974ba12b6c3<br />
+<br />
+d050cd82 Add jpeg to image extensions<br />
+0bb05a9d Improve menu building (and add expo site mode behaviors)<br />
+bc57328c GetThemeAttribute() add clarity<br />
+<br />
+#changelog
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/9b/eb/9bebf217.html">
+		<guid>http://localhost:2784/9b/eb/9bebf217.html</guid>
+		<pubDate>1616706451</pubDate>
+		<title>Software Updated to Version 1d36d37e..</title>
+		<link>http://localhost:2784/9b/eb/9bebf217.html</link>
+		<description>
+				<![CDATA[
+				Software Updated to Version 1d36d37e..<br />
+<br />
+Installed software version has changed from e6799956415886422dddedd8af9c5dabffc10e5b to 1d36d37e2093076545564d7b4132271f2349fd0e<br />
+<br />
+1d36d37e Add indexing of name: token-header<br />
+<br />
+#changelog
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/f3/ec/f3ec4b99.html">
 		<guid>http://localhost:2784/f3/ec/f3ec4b99.html</guid>
 		<pubDate>1616572542</pubDate>
 		<title>-- </title>
@@ -408,72 +904,6 @@ title: Director<br />
 <br />
 <br />
 &gt;&gt;59ab39b5046815d74d8faebc7b39b201b25160b9
-				]]>
-		</description>
-	</item>
-<item rdf:about="http://localhost:2784/04/39/0439ba05.html">
-		<guid>http://localhost:2784/04/39/0439ba05.html</guid>
-		<pubDate>1616569531</pubDate>
-		<title>Advisor</title>
-		<link>http://localhost:2784/04/39/0439ba05.html</link>
-		<description>
-				<![CDATA[
-				
-				]]>
-		</description>
-	</item>
-<item rdf:about="http://localhost:2784/18/e1/18e1f7e5.html">
-		<guid>http://localhost:2784/18/e1/18e1f7e5.html</guid>
-		<pubDate>1616569527</pubDate>
-		<title>Logistics</title>
-		<link>http://localhost:2784/18/e1/18e1f7e5.html</link>
-		<description>
-				<![CDATA[
-				
-				]]>
-		</description>
-	</item>
-<item rdf:about="http://localhost:2784/cc/a3/cca31b0d.html">
-		<guid>http://localhost:2784/cc/a3/cca31b0d.html</guid>
-		<pubDate>1616569524</pubDate>
-		<title>Hackathon</title>
-		<link>http://localhost:2784/cc/a3/cca31b0d.html</link>
-		<description>
-				<![CDATA[
-				
-				]]>
-		</description>
-	</item>
-<item rdf:about="http://localhost:2784/f5/77/f5773d0b.html">
-		<guid>http://localhost:2784/f5/77/f5773d0b.html</guid>
-		<pubDate>1616569522</pubDate>
-		<title>Content Chair</title>
-		<link>http://localhost:2784/f5/77/f5773d0b.html</link>
-		<description>
-				<![CDATA[
-				
-				]]>
-		</description>
-	</item>
-<item rdf:about="http://localhost:2784/0c/7f/0c7f5a8f.html">
-		<guid>http://localhost:2784/0c/7f/0c7f5a8f.html</guid>
-		<pubDate>1616569517</pubDate>
-		<title>Sponsorship Co-Chair</title>
-		<link>http://localhost:2784/0c/7f/0c7f5a8f.html</link>
-		<description>
-				<![CDATA[
-				
-				]]>
-		</description>
-	</item>
-<item rdf:about="http://localhost:2784/04/56/04560b1a.html">
-		<guid>http://localhost:2784/04/56/04560b1a.html</guid>
-		<pubDate>1616569514</pubDate>
-		<title>Sponsorship Co-Chair</title>
-		<link>http://localhost:2784/04/56/04560b1a.html</link>
-		<description>
-				<![CDATA[
-				
 				]]>
 		</description>
 	</item>
