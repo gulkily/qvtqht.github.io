@@ -11,10 +11,18 @@
 		<link>
 		http://localhost:2784</link>
 		<description>This is a flexible message board which you can read and write.</description>
-		<pubDate>Sun Mar 28 23:28:02 2021</pubDate>
+		<pubDate>Mon Mar 29 13:05:47 2021</pubDate>
 		<items>
 			<rdf:Seq>
-				<rdf:li rdf:resource="http://localhost:2784/b1/c1/b1c191c6.html" />
+				<rdf:li rdf:resource="http://localhost:2784/84/8c/848cbaca.html" />
+<rdf:li rdf:resource="http://localhost:2784/97/08/97081849.html" />
+<rdf:li rdf:resource="http://localhost:2784/bf/30/bf308951.html" />
+<rdf:li rdf:resource="http://localhost:2784/f9/f3/f9f3bf29.html" />
+<rdf:li rdf:resource="http://localhost:2784/06/97/0697ed40.html" />
+<rdf:li rdf:resource="http://localhost:2784/2d/87/2d8763b3.html" />
+<rdf:li rdf:resource="http://localhost:2784/31/13/311322e3.html" />
+<rdf:li rdf:resource="http://localhost:2784/07/29/07299dbf.html" />
+<rdf:li rdf:resource="http://localhost:2784/b1/c1/b1c191c6.html" />
 <rdf:li rdf:resource="http://localhost:2784/ad/c9/adc9183a.html" />
 <rdf:li rdf:resource="http://localhost:2784/42/df/42df3939.html" />
 <rdf:li rdf:resource="http://localhost:2784/56/f2/56f2c4b7.html" />
@@ -37,7 +45,6 @@
 <rdf:li rdf:resource="http://localhost:2784/1d/dc/1ddc7f3c.html" />
 <rdf:li rdf:resource="http://localhost:2784/1e/14/1e14d4ed.html" />
 <rdf:li rdf:resource="http://localhost:2784/75/10/75103d7b.html" />
-<rdf:li rdf:resource="http://localhost:2784/9f/d7/9fd7e5d1.html" />
 <rdf:li rdf:resource="http://localhost:2784/0d/25/0d257eed.html" />
 <rdf:li rdf:resource="http://localhost:2784/ca/9d/ca9d620a.html" />
 <rdf:li rdf:resource="http://localhost:2784/13/e5/13e5aefb.html" />
@@ -255,7 +262,145 @@
 
 	</channel>
 
-	<item rdf:about="http://localhost:2784/b1/c1/b1c191c6.html">
+	<item rdf:about="http://localhost:2784/84/8c/848cbaca.html">
+		<guid>http://localhost:2784/84/8c/848cbaca.html</guid>
+		<pubDate>1617037284</pubDate>
+		<title>&gt;&gt;42df393972198ce97ad5676115fce342453d048b<br />
+<br />
+#committee<br />
+</title>
+		<link>http://localhost:2784/84/8c/848cbaca.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;42df393972198ce97ad5676115fce342453d048b<br />
+<br />
+#committee<br />
+
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/97/08/97081849.html">
+		<guid>http://localhost:2784/97/08/97081849.html</guid>
+		<pubDate>1617037283</pubDate>
+		<title>--</title>
+		<link>http://localhost:2784/97/08/97081849.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;42df393972198ce97ad5676115fce342453d048b<br />
+<br />
+#committee<br />
+-- <br />
+[Cookie]
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/bf/30/bf308951.html">
+		<guid>http://localhost:2784/bf/30/bf308951.html</guid>
+		<pubDate>1617005022</pubDate>
+		<title>Guest has registered</title>
+		<link>http://localhost:2784/bf/30/bf308951.html</link>
+		<description>
+				<![CDATA[
+				[Public key for Guest, D2C0252818B3CB6B]<br />
+
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/f9/f3/f9f3bf29.html">
+		<guid>http://localhost:2784/f9/f3/f9f3bf29.html</guid>
+		<pubDate>1616999683</pubDate>
+		<title>The What Bitcoin Did Podcast is a twice-weekly Bitcoin podcast </title>
+		<link>http://localhost:2784/f9/f3/f9f3bf29.html</link>
+		<description>
+				<![CDATA[
+				The What Bitcoin Did Podcast is a twice-weekly Bitcoin podcast where host Peter McCormack interviews experts in the world of Bitcoin development, privacy, investment and adoption. Launched in November of 2017, the podcast has grown to over 100 episodes with a guest list that is a testament to the diversity of knowledge and opinions that represent the broader Bitcoin community.<br />
+<br />
+-- <br />
+name: What Bitcoin Did<br />
+title: https://www.whatbitcoindid.com/<br />
+&gt;&gt;0697ed4071ce32a2dc06723944287987daaba47f
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/06/97/0697ed40.html">
+		<guid>http://localhost:2784/06/97/0697ed40.html</guid>
+		<pubDate>1616998552</pubDate>
+		<title>https://www.whatbitcoindid.com/</title>
+		<link>http://localhost:2784/06/97/0697ed40.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/2d/87/2d8763b3.html">
+		<guid>http://localhost:2784/2d/87/2d8763b3.html</guid>
+		<pubDate>1616997946</pubDate>
+		<title>Foundry was created to meet the institutional demand for better</title>
+		<link>http://localhost:2784/2d/87/2d8763b3.html</link>
+		<description>
+				<![CDATA[
+				Foundry was created to meet the institutional demand for better capital access, efficiency, and transparency in the digital currency mining and staking industry.<br />
+<br />
+As a Digital Currency Group company, Foundry taps unparalleled institutional expertise, capital, and market intelligence to provide North American bitcoin miners and global manufacturers with the resources to build, maintain, and secure decentralized networks.<br />
+<br />
+Foundry empowers miners with the tools they need to build tomorrow's decentralized infrastructure. We are protocol-agnostic and seek to support like-minded blockchain entrepreneurs who share our mission to advance the industry.<br />
+<br />
+-- <br />
+name: Foundry<br />
+title: https://foundrydigital.com/<br />
+&gt;&gt;1e5fd57f68117664a3cdcd51df144f63a40d37e9
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/31/13/311322e3.html">
+		<guid>http://localhost:2784/31/13/311322e3.html</guid>
+		<pubDate>1616996534</pubDate>
+		<title>Software Updated to Version 4e0f5df7..</title>
+		<link>http://localhost:2784/31/13/311322e3.html</link>
+		<description>
+				<![CDATA[
+				Software Updated to Version 4e0f5df7..<br />
+<br />
+Installed software version has changed from 578cc8de07ba5d969fda6fb9d472ed518e3d66d1 to 4e0f5df7b663a6f427d5f5898e6ec75931edf971<br />
+<br />
+4e0f5df7 Improve fallback menu<br />
+d95a7982 Only allow letters as access keys<br />
+0ba18829 remove comment<br />
+73ff9d02 Add debug output to GetSimpleWindow()<br />
+2cdfde26 Remove GetSimplePage()<br />
+247f90c1 Improve MakeSimplePage()<br />
+fc8134a4 Fix menu templating<br />
+0888ebca Move some summary pages to makepage.pl, add expo pages to MakeSummaryPages()<br />
+<br />
+#changelog
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/07/29/07299dbf.html">
+		<guid>http://localhost:2784/07/29/07299dbf.html</guid>
+		<pubDate>1616996520</pubDate>
+		<title>Software Updated to Version 5d274461..</title>
+		<link>http://localhost:2784/07/29/07299dbf.html</link>
+		<description>
+				<![CDATA[
+				Software Updated to Version 5d274461..<br />
+<br />
+Installed software version has changed from 4e0f5df7b663a6f427d5f5898e6ec75931edf971 to 5d27446183380dfb949d1cfa3b22fb475651f074<br />
+<br />
+5d274461 GetItemAttributesWindow() cleanup and add debug output<br />
+c3436031 add some helpful things for expo edit mode<br />
+dd1eaecf in expo mode, add certain tags to image files based on path<br />
+0a9c397e add DeindexMissingFiles() and call it when indexing files<br />
+9b75225a cleaning up in index.pl<br />
+f11db0cd add optional order token<br />
+b2b579a6 html filename slug support basic<br />
+<br />
+#changelog
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/b1/c1/b1c191c6.html">
 		<guid>http://localhost:2784/b1/c1/b1c191c6.html</guid>
 		<pubDate>1616986880</pubDate>
 		<title>Software Updated to Version 578cc8de..</title>
@@ -603,27 +748,6 @@ title: https://algorand.foundation/<br />
 name: Algorand<br />
 title: https://algorand.foundation/<br />
 &gt;&gt;0d257eedf136f1ee5dc43b31e12b92b7a2398bf7
-				]]>
-		</description>
-	</item>
-<item rdf:about="http://localhost:2784/9f/d7/9fd7e5d1.html">
-		<guid>http://localhost:2784/9f/d7/9fd7e5d1.html</guid>
-		<pubDate>1616971362</pubDate>
-		<title>Foundry was created to meet the institutional demand for better</title>
-		<link>http://localhost:2784/9f/d7/9fd7e5d1.html</link>
-		<description>
-				<![CDATA[
-				Foundry was created to meet the institutional demand for better capital access, efficiency, and transparency in the digital currency mining and staking industry.<br />
-<br />
-As a Digital Currency Group company, Foundry taps unparalleled institutional expertise, capital, and market intelligence to provide North American bitcoin miners and global manufacturers with the resources to build, maintain, and secure decentralized networks.<br />
-<br />
-Foundry empowers miners with the tools they need to build tomorrowâ€™s decentralized infrastructure. We are protocol-agnostic and seek to support like-minded blockchain entrepreneurs who share our mission to advance the industry.<br />
-<br />
--- <br />
-name: Foundry<br />
-title: https://foundrydigital.com/<br />
-&gt;&gt;1e5fd57f68117664a3cdcd51df144f63a40d37e9<br />
-
 				]]>
 		</description>
 	</item>
