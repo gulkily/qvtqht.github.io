@@ -11,11 +11,10 @@
 		<link>
 		http://localhost:2784</link>
 		<description>This is a flexible message board which you can read and write.</description>
-		<pubDate>Mon Mar 29 13:25:20 2021</pubDate>
+		<pubDate>Mon Mar 29 16:24:00 2021</pubDate>
 		<items>
 			<rdf:Seq>
-				<rdf:li rdf:resource="http://localhost:2784/84/8c/848cbaca.html" />
-<rdf:li rdf:resource="http://localhost:2784/97/08/97081849.html" />
+				<rdf:li rdf:resource="http://localhost:2784/17/76/1776aa25.html" />
 <rdf:li rdf:resource="http://localhost:2784/bf/30/bf308951.html" />
 <rdf:li rdf:resource="http://localhost:2784/f9/f3/f9f3bf29.html" />
 <rdf:li rdf:resource="http://localhost:2784/06/97/0697ed40.html" />
@@ -23,7 +22,6 @@
 <rdf:li rdf:resource="http://localhost:2784/31/13/311322e3.html" />
 <rdf:li rdf:resource="http://localhost:2784/07/29/07299dbf.html" />
 <rdf:li rdf:resource="http://localhost:2784/b1/c1/b1c191c6.html" />
-<rdf:li rdf:resource="http://localhost:2784/ad/c9/adc9183a.html" />
 <rdf:li rdf:resource="http://localhost:2784/42/df/42df3939.html" />
 <rdf:li rdf:resource="http://localhost:2784/56/f2/56f2c4b7.html" />
 <rdf:li rdf:resource="http://localhost:2784/c2/43/c24347b3.html" />
@@ -262,35 +260,21 @@
 
 	</channel>
 
-	<item rdf:about="http://localhost:2784/84/8c/848cbaca.html">
-		<guid>http://localhost:2784/84/8c/848cbaca.html</guid>
-		<pubDate>1617037284</pubDate>
-		<title>&gt;&gt;42df393972198ce97ad5676115fce342453d048b<br />
-<br />
-#committee<br />
-</title>
-		<link>http://localhost:2784/84/8c/848cbaca.html</link>
+	<item rdf:about="http://localhost:2784/17/76/1776aa25.html">
+		<guid>http://localhost:2784/17/76/1776aa25.html</guid>
+		<pubDate>1617048133</pubDate>
+		<title>Founder of Aptava.com - Real Estate Blockchain and AI Project</title>
+		<link>http://localhost:2784/17/76/1776aa25.html</link>
 		<description>
 				<![CDATA[
-				&gt;&gt;42df393972198ce97ad5676115fce342453d048b<br />
+				Founder of Aptava.com - Real Estate Blockchain and AI Project<br />
 <br />
-#committee<br />
-
-				]]>
-		</description>
-	</item>
-<item rdf:about="http://localhost:2784/97/08/97081849.html">
-		<guid>http://localhost:2784/97/08/97081849.html</guid>
-		<pubDate>1617037283</pubDate>
-		<title>--</title>
-		<link>http://localhost:2784/97/08/97081849.html</link>
-		<description>
-				<![CDATA[
-				&gt;&gt;42df393972198ce97ad5676115fce342453d048b<br />
-<br />
-#committee<br />
--- <br />
-[Cookie]
+-- <br />
+name: Manish Kumar<br />
+title: Hackathon Co-Chair<br />
+order: 9<br />
+&gt;&gt;42df393972198ce97ad5676115fce342453d048b<br />
+#committee
 				]]>
 		</description>
 	</item>
@@ -421,22 +405,6 @@ cd4ead8e Add item_order view<br />
 c1f688ed add order token default<br />
 <br />
 #changelog
-				]]>
-		</description>
-	</item>
-<item rdf:about="http://localhost:2784/ad/c9/adc9183a.html">
-		<guid>http://localhost:2784/ad/c9/adc9183a.html</guid>
-		<pubDate>1616977980</pubDate>
-		<title>-- </title>
-		<link>http://localhost:2784/ad/c9/adc9183a.html</link>
-		<description>
-				<![CDATA[
-				&gt;&gt;42df393972198ce97ad5676115fce342453d048b<br />
-<br />
--- <br />
-name: Manish Kumar<br />
-title: Hackathon Co-Chair<br />
-order: 9
 				]]>
 		</description>
 	</item>
