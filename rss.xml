@@ -11,19 +11,37 @@
 		<link>
 		http://localhost:2784</link>
 		<description>This is a flexible message board which you can read and write.</description>
-		<pubDate>Sun Mar 28 19:12:03 2021</pubDate>
+		<pubDate>Sun Mar 28 20:57:35 2021</pubDate>
 		<items>
 			<rdf:Seq>
-				<rdf:li rdf:resource="http://localhost:2784/55/ee/55eecde6.html" />
+				<rdf:li rdf:resource="http://localhost:2784/ad/c9/adc9183a.html" />
+<rdf:li rdf:resource="http://localhost:2784/42/df/42df3939.html" />
+<rdf:li rdf:resource="http://localhost:2784/56/f2/56f2c4b7.html" />
+<rdf:li rdf:resource="http://localhost:2784/c2/43/c24347b3.html" />
+<rdf:li rdf:resource="http://localhost:2784/48/87/488747e9.html" />
+<rdf:li rdf:resource="http://localhost:2784/08/57/08572773.html" />
+<rdf:li rdf:resource="http://localhost:2784/65/a2/65a29c46.html" />
+<rdf:li rdf:resource="http://localhost:2784/b6/bf/b6bfd16e.html" />
+<rdf:li rdf:resource="http://localhost:2784/cf/56/cf561e7a.html" />
+<rdf:li rdf:resource="http://localhost:2784/71/03/71037ec6.html" />
+<rdf:li rdf:resource="http://localhost:2784/c2/7c/c27c857e.html" />
+<rdf:li rdf:resource="http://localhost:2784/bd/98/bd98ff1f.html" />
+<rdf:li rdf:resource="http://localhost:2784/46/3e/463ed53e.html" />
+<rdf:li rdf:resource="http://localhost:2784/07/fc/07fc0794.html" />
+<rdf:li rdf:resource="http://localhost:2784/55/ee/55eecde6.html" />
+<rdf:li rdf:resource="http://localhost:2784/7e/e5/7ee5490b.html" />
 <rdf:li rdf:resource="http://localhost:2784/64/ff/64ff630b.html" />
+<rdf:li rdf:resource="http://localhost:2784/24/30/24300ea1.html" />
 <rdf:li rdf:resource="http://localhost:2784/87/b7/87b70f98.html" />
 <rdf:li rdf:resource="http://localhost:2784/1d/dc/1ddc7f3c.html" />
 <rdf:li rdf:resource="http://localhost:2784/1e/14/1e14d4ed.html" />
+<rdf:li rdf:resource="http://localhost:2784/75/10/75103d7b.html" />
 <rdf:li rdf:resource="http://localhost:2784/9f/d7/9fd7e5d1.html" />
 <rdf:li rdf:resource="http://localhost:2784/0d/25/0d257eed.html" />
 <rdf:li rdf:resource="http://localhost:2784/ca/9d/ca9d620a.html" />
 <rdf:li rdf:resource="http://localhost:2784/13/e5/13e5aefb.html" />
 <rdf:li rdf:resource="http://localhost:2784/e9/ea/e9ea459d.html" />
+<rdf:li rdf:resource="http://localhost:2784/90/9f/909f18e0.html" />
 <rdf:li rdf:resource="http://localhost:2784/72/12/7212f9ba.html" />
 <rdf:li rdf:resource="http://localhost:2784/b4/e8/b4e8c710.html" />
 <rdf:li rdf:resource="http://localhost:2784/00/72/00722e06.html" />
@@ -69,7 +87,6 @@
 <rdf:li rdf:resource="http://localhost:2784/93/b1/93b131db.html" />
 <rdf:li rdf:resource="http://localhost:2784/c6/e3/c6e370e9.html" />
 <rdf:li rdf:resource="http://localhost:2784/c9/7c/c97ca519.html" />
-<rdf:li rdf:resource="http://localhost:2784/37/43/3743d317.html" />
 <rdf:li rdf:resource="http://localhost:2784/5e/78/5e7888b7.html" />
 <rdf:li rdf:resource="http://localhost:2784/b9/2f/b92fa5df.html" />
 <rdf:li rdf:resource="http://localhost:2784/59/ab/59ab39b5.html" />
@@ -237,7 +254,193 @@
 
 	</channel>
 
-	<item rdf:about="http://localhost:2784/55/ee/55eecde6.html">
+	<item rdf:about="http://localhost:2784/ad/c9/adc9183a.html">
+		<guid>http://localhost:2784/ad/c9/adc9183a.html</guid>
+		<pubDate>1616977980</pubDate>
+		<title>-- </title>
+		<link>http://localhost:2784/ad/c9/adc9183a.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;42df393972198ce97ad5676115fce342453d048b<br />
+<br />
+-- <br />
+name: Manish Kumar<br />
+title: Hackathon Co-Chair<br />
+order: 9
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/42/df/42df3939.html">
+		<guid>http://localhost:2784/42/df/42df3939.html</guid>
+		<pubDate>1616977586</pubDate>
+		<title>Hackathon Co-Chair</title>
+		<link>http://localhost:2784/42/df/42df3939.html</link>
+		<description>
+				<![CDATA[
+				
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/56/f2/56f2c4b7.html">
+		<guid>http://localhost:2784/56/f2/56f2c4b7.html</guid>
+		<pubDate>1616977147</pubDate>
+		<title>order: 5</title>
+		<link>http://localhost:2784/56/f2/56f2c4b7.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;54c8586a9a67b87d09f8c9d54a23acae30f39c60<br />
+<br />
+order: 5
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/c2/43/c24347b3.html">
+		<guid>http://localhost:2784/c2/43/c24347b3.html</guid>
+		<pubDate>1616977134</pubDate>
+		<title>order: 6</title>
+		<link>http://localhost:2784/c2/43/c24347b3.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;2e4a9578c101fe92f0ab1f01edf8b93ca0acac99<br />
+<br />
+order: 6
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/48/87/488747e9.html">
+		<guid>http://localhost:2784/48/87/488747e9.html</guid>
+		<pubDate>1616977128</pubDate>
+		<title>order: 7</title>
+		<link>http://localhost:2784/48/87/488747e9.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;c97ca519455fd6827e3b1e74b62896b920d60372<br />
+<br />
+order: 7
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/08/57/08572773.html">
+		<guid>http://localhost:2784/08/57/08572773.html</guid>
+		<pubDate>1616977116</pubDate>
+		<title>order: 8</title>
+		<link>http://localhost:2784/08/57/08572773.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;5d6fc575972925f7abb5510ccfedb3db566cb106<br />
+<br />
+order: 8
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/65/a2/65a29c46.html">
+		<guid>http://localhost:2784/65/a2/65a29c46.html</guid>
+		<pubDate>1616977109</pubDate>
+		<title>order: 10</title>
+		<link>http://localhost:2784/65/a2/65a29c46.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;5e7888b71108d91444bf3e1e76c1116de6bf524b<br />
+<br />
+order: 10
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/b6/bf/b6bfd16e.html">
+		<guid>http://localhost:2784/b6/bf/b6bfd16e.html</guid>
+		<pubDate>1616977104</pubDate>
+		<title>order: 11</title>
+		<link>http://localhost:2784/b6/bf/b6bfd16e.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;8c7c9128e2911c892f2414ce8b2e8fa599f46891<br />
+<br />
+order: 11
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/cf/56/cf561e7a.html">
+		<guid>http://localhost:2784/cf/56/cf561e7a.html</guid>
+		<pubDate>1616977091</pubDate>
+		<title>order: 12</title>
+		<link>http://localhost:2784/cf/56/cf561e7a.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;0adb74e886548160ce80d2c03bd23aeec183a62e<br />
+<br />
+order: 12
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/71/03/71037ec6.html">
+		<guid>http://localhost:2784/71/03/71037ec6.html</guid>
+		<pubDate>1616977081</pubDate>
+		<title>order: 4</title>
+		<link>http://localhost:2784/71/03/71037ec6.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;ef20a90b4e9a18d44eeacb8be82bb847ae58967c<br />
+<br />
+order: 4
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/c2/7c/c27c857e.html">
+		<guid>http://localhost:2784/c2/7c/c27c857e.html</guid>
+		<pubDate>1616977071</pubDate>
+		<title>order: 3</title>
+		<link>http://localhost:2784/c2/7c/c27c857e.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;b92fa5dfbde0e589ed1e3270356fdbae46e28389<br />
+<br />
+order: 3
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/bd/98/bd98ff1f.html">
+		<guid>http://localhost:2784/bd/98/bd98ff1f.html</guid>
+		<pubDate>1616976861</pubDate>
+		<title>order: 2</title>
+		<link>http://localhost:2784/bd/98/bd98ff1f.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;9f3428147904d9c331e1cb4d23218ac25590bc2b<br />
+<br />
+order: 2
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/46/3e/463ed53e.html">
+		<guid>http://localhost:2784/46/3e/463ed53e.html</guid>
+		<pubDate>1616976537</pubDate>
+		<title>order: 1</title>
+		<link>http://localhost:2784/46/3e/463ed53e.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;59ab39b5046815d74d8faebc7b39b201b25160b9<br />
+<br />
+order: 1
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/07/fc/07fc0794.html">
+		<guid>http://localhost:2784/07/fc/07fc0794.html</guid>
+		<pubDate>1616976484</pubDate>
+		<title>Daniel Marquez is the Director of MIT Bitcoin Expo.</title>
+		<link>http://localhost:2784/07/fc/07fc0794.html</link>
+		<description>
+				<![CDATA[
+				Daniel Marquez is the Director of MIT Bitcoin Expo.<br />
+<br />
+-- <br />
+name: Daniel Marquez<br />
+title: Director<br />
+&gt;&gt;59ab39b5046815d74d8faebc7b39b201b25160b9
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/55/ee/55eecde6.html">
 		<guid>http://localhost:2784/55/ee/55eecde6.html</guid>
 		<pubDate>1616973018</pubDate>
 		<title>Sia is a decentralized cloud storage platform supported by a gl</title>
@@ -251,6 +454,24 @@ Skynet is an open protocol and toolkit for creating a better web--one built on d
 -- <br />
 name: Sia<br />
 title: https://www.sia.tech/<br />
+&gt;&gt;57a643f7f780bc47872ee8c8f9fafb0dcebc44e7
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/7e/e5/7ee5490b.html">
+		<guid>http://localhost:2784/7e/e5/7ee5490b.html</guid>
+		<pubDate>1616972657</pubDate>
+		<title>Sia is a decentralized cloud storage platform supported by a gl</title>
+		<link>http://localhost:2784/7e/e5/7ee5490b.html</link>
+		<description>
+				<![CDATA[
+				Sia is a decentralized cloud storage platform supported by a global ecosystem of data storage hosts and renters. The Sia network is maintained by the Sia Foundation, a non-profit entity.<br />
+<br />
+Skynet is an open protocol and toolkit for creating a better web--one built on decentralized storage and applications. Skynet is layer 2, built on top of the Sia network.<br />
+<br />
+-- <br />
+name: Sia<br />
+https://www.sia.tech/<br />
 &gt;&gt;57a643f7f780bc47872ee8c8f9fafb0dcebc44e7
 				]]>
 		</description>
@@ -272,6 +493,25 @@ Metrika is trusted by protocol teams, private blockchain networks, application d
 name: Metrika<br />
 title: https://www.metrika.co/<br />
 &gt;&gt;070fa7a90f2d01874ccf88ea873a0b3cfd374ac8
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/24/30/24300ea1.html">
+		<guid>http://localhost:2784/24/30/24300ea1.html</guid>
+		<pubDate>1616972404</pubDate>
+		<title>Metrika delivers reliability and performance of blockchain netw</title>
+		<link>http://localhost:2784/24/30/24300ea1.html</link>
+		<description>
+				<![CDATA[
+				Metrika delivers reliability and performance of blockchain networks with the industryâ€™s most complete blockchain operational monitoring solution. <br />
+Metrikaâ€™s real-time monitoring, analytics, and actionable intelligence provide the tools to keep blockchain networks up and running. <br />
+Metrika is trusted by protocol teams, private blockchain networks, application developers, and CBDC teams globally. Weâ€™re on a mission to build trust in blockchain operations.<br />
+<br />
+-- <br />
+name: Metrika<br />
+title: https://www.metrika.co/<br />
+&gt;&gt;070fa7a90f2d01874ccf88ea873a0b3cfd374ac8<br />
+
 				]]>
 		</description>
 	</item>
@@ -320,6 +560,22 @@ title: https://www.stellar.org/<br />
 <br />
 -- <br />
 name: Algorand Foundation<br />
+title: https://algorand.foundation/<br />
+&gt;&gt;0d257eedf136f1ee5dc43b31e12b92b7a2398bf7
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/75/10/75103d7b.html">
+		<guid>http://localhost:2784/75/10/75103d7b.html</guid>
+		<pubDate>1616971589</pubDate>
+		<title>The Algorand Foundation is dedicated to fulfilling the global p</title>
+		<link>http://localhost:2784/75/10/75103d7b.html</link>
+		<description>
+				<![CDATA[
+				The Algorand Foundation is dedicated to fulfilling the global promise of blockchain technology by leveraging the Algorand protocol and open source software, designed by Silvio Micali and a team of leading scientists. With core beliefs in the establishment of an open, public and permissionless blockchain, the Algorand Foundation has a vision for an inclusive ecosystem that provides an opportunity for everyone to harness the potential of an equitable and truly borderless economy.&quot;<br />
+<br />
+-- <br />
+name: Algorand<br />
 title: https://algorand.foundation/<br />
 &gt;&gt;0d257eedf136f1ee5dc43b31e12b92b7a2398bf7
 				]]>
@@ -411,6 +667,25 @@ title: https://dci.mit.edu/
 -- <br />
 title: Digital Currency Initiative<br />
 title: https://dci.mit.edu/
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/90/9f/909f18e0.html">
+		<guid>http://localhost:2784/90/9f/909f18e0.html</guid>
+		<pubDate>1616960097</pubDate>
+		<title>Stellar is a decentralized, fast, scalable, and uniquely sustai</title>
+		<link>http://localhost:2784/90/9f/909f18e0.html</link>
+		<description>
+				<![CDATA[
+				&gt;&gt;00722e067b530770899a17c31d8259368ed889f0<br />
+<br />
+Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the world’s financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 4.8 million accounts.<br />
+<br />
+The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the world’s financial infrastructure. Founded in 2014, the Foundation helps maintain Stellar’s codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the world’s economic potential through blockchain technology.<br />
+<br />
+-- <br />
+name: Stellar Development Foundation<br />
+title: https://www.stellar.org/
 				]]>
 		</description>
 	</item>
@@ -1093,22 +1368,6 @@ title: Logistics Chair<br />
 		<description>
 				<![CDATA[
 				
-				]]>
-		</description>
-	</item>
-<item rdf:about="http://localhost:2784/37/43/3743d317.html">
-		<guid>http://localhost:2784/37/43/3743d317.html</guid>
-		<pubDate>1616569755</pubDate>
-		<title>-- </title>
-		<link>http://localhost:2784/37/43/3743d317.html</link>
-		<description>
-				<![CDATA[
-				-- <br />
-name: Daniel Marquez<br />
-title: Director<br />
-<br />
-<br />
-&gt;&gt;59ab39b5046815d74d8faebc7b39b201b25160b9
 				]]>
 		</description>
 	</item>
