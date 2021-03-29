@@ -11,10 +11,11 @@
 		<link>
 		http://localhost:2784</link>
 		<description>This is a flexible message board which you can read and write.</description>
-		<pubDate>Sun Mar 28 20:57:35 2021</pubDate>
+		<pubDate>Sun Mar 28 23:28:02 2021</pubDate>
 		<items>
 			<rdf:Seq>
-				<rdf:li rdf:resource="http://localhost:2784/ad/c9/adc9183a.html" />
+				<rdf:li rdf:resource="http://localhost:2784/b1/c1/b1c191c6.html" />
+<rdf:li rdf:resource="http://localhost:2784/ad/c9/adc9183a.html" />
 <rdf:li rdf:resource="http://localhost:2784/42/df/42df3939.html" />
 <rdf:li rdf:resource="http://localhost:2784/56/f2/56f2c4b7.html" />
 <rdf:li rdf:resource="http://localhost:2784/c2/43/c24347b3.html" />
@@ -254,7 +255,31 @@
 
 	</channel>
 
-	<item rdf:about="http://localhost:2784/ad/c9/adc9183a.html">
+	<item rdf:about="http://localhost:2784/b1/c1/b1c191c6.html">
+		<guid>http://localhost:2784/b1/c1/b1c191c6.html</guid>
+		<pubDate>1616986880</pubDate>
+		<title>Software Updated to Version 578cc8de..</title>
+		<link>http://localhost:2784/b1/c1/b1c191c6.html</link>
+		<description>
+				<![CDATA[
+				Software Updated to Version 578cc8de..<br />
+<br />
+Installed software version has changed from b0b07581f35650d6da0b379b134ead06a71dad66 to 578cc8de07ba5d969fda6fb9d472ed518e3d66d1<br />
+<br />
+578cc8de GetItemTemplate2() --&gt; GetItemTemplate()<br />
+26dab276 Add a todo<br />
+d438067f Expo: Hide status only if not in edit mode<br />
+b1cd8c17 Expo mode: if item's title is a URL, turn it into a link<br />
+07b497e6 Add some commented alternatives to display item references<br />
+220acb04 GetImageContainer() remove hard-coded URLs and fix bug<br />
+cd4ead8e Add item_order view<br />
+c1f688ed add order token default<br />
+<br />
+#changelog
+				]]>
+		</description>
+	</item>
+<item rdf:about="http://localhost:2784/ad/c9/adc9183a.html">
 		<guid>http://localhost:2784/ad/c9/adc9183a.html</guid>
 		<pubDate>1616977980</pubDate>
 		<title>-- </title>
